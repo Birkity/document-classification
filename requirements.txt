@@ -1,0 +1,20 @@
+# Core Libraries
+numpy
+pandas
+
+# Text Processing and Machine Learning
+scikit-learn
+nltk
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+
+# Interactive UI
+ipywidgets
+ipython
+
+# Jupyter Notebook Support
+jupyter
+notebook
